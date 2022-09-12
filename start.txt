@@ -1,7 +1,7 @@
 Sveiki Pasaule!
 Sveiki
 Labdien
-dat1
+dat1 1000-7=993
 dat2
 dat3
 dat4
